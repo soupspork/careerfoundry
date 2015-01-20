@@ -1,0 +1,13 @@
+.jumbotron {
+     background-image: url("../img/photo.jpeg");
+     background-size: cover;
+        
+}
+
+.jumbotron p {
+      color: navy;
+}
+
+.jumbotron h1 {
+	color: teal;
+}
